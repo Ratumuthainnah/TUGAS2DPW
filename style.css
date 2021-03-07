@@ -1,0 +1,31 @@
+*{
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: Lato;
+	color: #606060;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+.footer {
+  height: 70px;
+}
+.social-media{
+  margin: 20px;
+}
+.social-media a{
+  color: white;
+  margin: 20px;
+  font-size: 21px;
+  text-decoration: none;
+  transition: .3s linear;
+}
+.social-media a:hover{
+  color: #4c95ff;
+}
+.bg-lights {
+    background-color: #0d6efd!important;
+}
